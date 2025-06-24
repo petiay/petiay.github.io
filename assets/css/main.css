@@ -218,10 +218,6 @@ input, select, textarea {
 		width: 1400px;
 	}
 
-        .container p {
-            color: #2c373d;
-        }
-
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 			.container {
@@ -1989,26 +1985,14 @@ input, select, textarea {
 	}
 
 		.item header {
-
-			background: #2c373d;
+			background: #fff;
 			margin: 0;
 			padding: 1em 0 1em 0;
-			font-size: 1em;
+			font-size: 0.8em;
 		}
 
 			.item header h3 {
 				font-size: 1em;
-				background: #2c373d;
-				color: #ffffff;
-			}
-
-			.item p {
-			    font-size: 0.75em;
-			    text-align: left;
-			    padding: 0.1em 0.4em 0.1em 0.4em;
-			    background: #445760;
-                color: #ffffff;
-                line-height: 1.85;
 			}
 
 /* Icons */
